@@ -268,7 +268,7 @@ body {
     outline: transparent;
     font-family: inherit;
     padding: 10px;
-    color: var(--black);
+    color: #333;
     background-color: white;
 }
 
